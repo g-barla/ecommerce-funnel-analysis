@@ -4,7 +4,7 @@
 
 [![View Dashboard](https://img.shields.io/badge/Tableau-View%20Dashboard-blue)](https://public.tableau.com/app/profile/geetika.barla7795/viz/EcommerceCartAbandonmentAnalysis/cartabndnementanalysis)
 
-![Dashboard](visualizations/dashboard_final.png)
+![Dashboard](visualizations/dashboard.png)
 
 ---
 
