@@ -104,4 +104,4 @@ Shows 47% drop-off at cart stage
 
 ---
 
-*Project completed as part of analytics portfolio development. Data is synthetic; methodology applicable to real e-commerce scenarios.*
+Data is synthetic; methodology applicable to real e-commerce scenarios.*
