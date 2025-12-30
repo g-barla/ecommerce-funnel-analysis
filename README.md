@@ -95,7 +95,7 @@ Interactive Tableau visualization showing:
 
 ### Funnel Analysis
 Shows 47% drop-off at cart stage
-![Funnel Analysis](visualizations/Funnel Analysis.png)
+![Funnel Analysis](visualizations/Funnel%20Analysis.png)
 
 ### Feature Importance
 ![Feature Importance](visualizations/feature_importance.png)
