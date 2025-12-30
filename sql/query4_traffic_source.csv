@@ -1,0 +1,6 @@
+traffic_source,total_sessions,purchases,conversion_rate,avg_products_viewed,avg_time_seconds,avg_order_value,total_revenue,abandonment_rate
+Direct,15146,3732,24.64,7.5,304.0,267.51,998343.76,46.35
+Paid Search,24974,6148,24.62,7.5,304.0,271.12,1666857.6,46.67
+Social Media,19840,4867,24.53,7.5,305.0,271.38,1320821.74,47.28
+Organic Search,29975,7256,24.21,7.5,303.0,270.13,1960027.42,46.89
+Email,10065,2408,23.92,7.5,306.0,266.99,642923.59,46.87

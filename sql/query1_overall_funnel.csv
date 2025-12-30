@@ -1,0 +1,2 @@
+total_sessions,browsed,viewed_product,added_to_cart,reached_checkout,completed_purchase,view_rate,cart_rate,checkout_rate,purchase_rate,overall_conversion,cart_abandonment_rate
+100000,100000,84919,50961,27096,24411,84.92,50.96,27.1,24.41,24.41,46.83

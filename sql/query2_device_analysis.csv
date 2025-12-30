@@ -1,0 +1,4 @@
+device,total_sessions,purchases,conversion_rate,carts_added,checkouts_reached,abandonment_rate,avg_cart_value,avg_time_on_page
+Desktop,44797,12027,26.85,22962,13333,41.93,260.28,304.8
+Tablet,10061,2399,23.84,5054,2680,46.97,260.64,305.8
+Mobile,45142,9985,22.12,22945,11083,51.7,259.65,302.9

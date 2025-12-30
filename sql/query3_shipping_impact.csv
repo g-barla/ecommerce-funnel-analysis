@@ -1,0 +1,5 @@
+shipping_tier,sessions,carts_added,checkouts,purchases,cart_to_purchase_rate,abandonment_rate,avg_shipping_cost,avg_cart_value
+Free Shipping,4,4,3,3,75.0,25.0,0.0,213.85
+Low ($1-$10),20338,20338,12430,11231,55.22,38.88,5.0,259.37
+Medium ($11-$15),10192,10192,5362,4781,46.91,47.39,12.51,258.69
+High (>$15),20427,20427,9301,8396,41.1,54.47,19.99,261.12
